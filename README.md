@@ -1,1 +1,1 @@
-This is my fullStack project "Blog".gi
+This is my fullStack project "Blog"
